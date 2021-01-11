@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jsdoc-api": "6.0.0",
+    "vue-docgen-api": "4.34.2"
+  }
+}
